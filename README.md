@@ -1,2 +1,2 @@
 # todo
-List your tasks
+Ionic app, List your tasks
